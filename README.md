@@ -1,2 +1,2 @@
 # powercoders
-My Poco repo stuff
+My Poco repo stuff to the rescue
