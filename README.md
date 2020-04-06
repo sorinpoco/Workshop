@@ -1,2 +1,13 @@
-# My Workshop repo
-This is where I put the dirs and files I made in class
+# MY WORKSHOP
+This repository will contain my work in class
+
+## CLI
+This will contain my CLI exercices
+
+## HTML-CSS
+This will contain my HTML/CSS exercices
+
+## JS
+This will contain my JS exercices
+
+### A third title
